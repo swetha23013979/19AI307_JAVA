@@ -38,8 +38,7 @@ RegisterNumber:
 
 
 ## OUTPUT:
-
-
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-05-02 100546.png"
 
 ## RESULT:
 Thus, the Java program to get values of variables 'a' and 'b' and then check if both the conditions 'a < 50' and 'a < b' are true is created successfully.
